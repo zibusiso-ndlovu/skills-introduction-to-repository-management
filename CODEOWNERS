@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @zibusiso-ndlovu
+/src/backend/database.py      @zibusiso-ndlovu
+/src/backend/routers/auth.py  @zibusiso-ndlovu
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @zibusiso-ndlovu
